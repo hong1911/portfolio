@@ -216,6 +216,8 @@ txt2('Machine Learning with Streamlit',
 st.markdown('''
 #### Tableau Projects
 ''')
+image_2 = Image.open('spend_analytics.png')
+st.image(image_2, width=150)
 txt3('Spend Analytics', 'spend_analytics.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/SpendAnalytics_16731414474670/ExecutiveTotalSpend')
 
 txt5('World Demographics Animation', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/WorldDemographicsAnimation_16727080793640/WorldDemographics')
