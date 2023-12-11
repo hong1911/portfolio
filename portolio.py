@@ -38,7 +38,7 @@ st.write('''
 ''')
 
 image = Image.open('hn_professional_photo.png')
-st.image(image, width=200)
+st.image(image, width=150)
 
 #####################
 # # Navigation
@@ -100,11 +100,12 @@ def txt2(a, source_b, b, source_c, c):
     # st.markdown(b)
 
 def txt3(project, project_image_link, project_link):
+  # st.write(f"[{project}]({project_link})\n")
   st.write(f"[{project}]({project_link})")
-  #st.write("")
-  #image = Image.open(project_image_link)
-  #st.image(image, width=200)
-  #st.image(project_image_link,use_column_width ='auto')
+  # st.write("")
+  # st.image(project_image_link,use_column_width ='auto')
+  image_2 = Image.open(project_image_link)
+  st.image(image_2, use_column_width ='auto')
     
 def txt4(a, b):
   col1, col2 = st.columns([1,2])
@@ -215,15 +216,15 @@ txt2('Machine Learning with Streamlit',
 st.markdown('''
 #### Tableau Projects
 ''')
-txt3('**Spend Analytics**', 'spend_analytics.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/SpendAnalytics_16731414474670/ExecutiveTotalSpend')
-image_2 = Image.open('spend_analytics.png')
-st.image(image_2)
+txt3('Spend Analytics', 'spend_analytics.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/SpendAnalytics_16731414474670/ExecutiveTotalSpend')
 
-txt3('**World Demographics Animation**', 'Tableau photos/world_demographics.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/WorldDemographicsAnimation_16727080793640/WorldDemographics')
-txt3('**Data Science Salary**', 'Tableau photos/data_science_salary.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/DataScienceSalaryAnalysis_16732413979580/Dashboard1')
-txt3('**Clothing Retail Industry Analysis**', 'Tableau photos/retail.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/ClothingRetailIndustryAnalysis_16727010423040/FinalPresentation')
-txt3('**Customer Analysis**', 'Tableau photos/customer_analysis.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/CustomerAnalysis_16727167027430/Dashboard1')
-txt3('**Startups Analysis**', 'Tableau photos/startups_analysis.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/Startupsanalysis_16726215150380/TheStartUpQuadrant')
+txt5('World Demographics Animation', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/WorldDemographicsAnimation_16727080793640/WorldDemographics')
+txt5('Data Science Salary', 'Tableau photos/data_science_salary.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/DataScienceSalaryAnalysis_16732413979580/Dashboard1')
+txt5('Clothing Retail Industry Analysis', 'Tableau photos/retail.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/ClothingRetailIndustryAnalysis_16727010423040/FinalPresentation')
+txt5('Customer Analysis', 'Tableau photos/customer_analysis.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/CustomerAnalysis_16727167027430/Dashboard1')
+txt5('Startups Analysis', 'Tableau photos/startups_analysis.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/Startupsanalysis_16726215150380/TheStartUpQuadrant')
+
+txt5('LinkedIn', 'https://www.linkedin.com/in/hongpn/')
 
 #####################
 st.markdown('''
