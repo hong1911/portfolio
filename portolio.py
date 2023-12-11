@@ -213,7 +213,7 @@ txt2('Machine Learning with Streamlit',
 st.markdown('''
 #### Tableau Projects
 ''')
-txt3('**Spend Analytics**', 'Tableau photos/spend_analytics.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/SpendAnalytics_16731414474670/ExecutiveTotalSpend')
+txt3('**Spend Analytics**', 'https://github.com/hong1911/portfolio/tree/main/Tableau%20photos/spend_analytics.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/SpendAnalytics_16731414474670/ExecutiveTotalSpend')
 txt3('**World Demographics Animation**', 'Tableau photos/world_demographics.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/WorldDemographicsAnimation_16727080793640/WorldDemographics')
 txt3('**Data Science Salary**', 'Tableau photos/data_science_salary.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/DataScienceSalaryAnalysis_16732413979580/Dashboard1')
 txt3('**Clothing Retail Industry Analysis**', 'Tableau photos/retail.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/ClothingRetailIndustryAnalysis_16727010423040/FinalPresentation')
