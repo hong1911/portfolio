@@ -215,7 +215,7 @@ st.markdown('''
 ''')
 txt3('Spend Analytics', 'Tableau photos/spend_analytics.PNG',
      'https://public.tableau.com/app/profile/hong.nguyen2260/viz/SpendAnalytics_16731414474670/ExecutiveTotalSpend')
-txt5('World Demographics Animation', 'Tableau photos/world_demographics.PNG'
+txt5('World Demographics Animation', 'Tableau photos/world_demographics.PNG',
      'https://public.tableau.com/app/profile/hong.nguyen2260/viz/WorldDemographicsAnimation_16727080793640/WorldDemographics')
 txt5('Data Science Salary', 'Tableau photos/data_science_salary.PNG',
      'https://public.tableau.com/app/profile/hong.nguyen2260/viz/DataScienceSalaryAnalysis_16732413979580/Dashboard1')
