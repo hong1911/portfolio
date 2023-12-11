@@ -99,7 +99,7 @@ def txt2(a, source_b, b, source_c, c):
     st.write(f"[{source_c}]({c})")
     # st.markdown(b)
 
-def txt_3(project, project_image_link, project_link):
+def txt3(project, project_image_link, project_link):
   st.write(f"[{project}]({project_link})\n")
   st.write("")
   st.image(project_image_link,use_column_width ='auto')
@@ -213,12 +213,12 @@ txt2('Machine Learning with Streamlit',
 st.markdown('''
 #### Tableau Projects
 ''')
-txt_3('**Spend Analytics**', 'Tableau photos/spend_analytics.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/SpendAnalytics_16731414474670/ExecutiveTotalSpend')
-txt_3('**World Demographics Animation**', 'Tableau photos/world_demographics.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/WorldDemographicsAnimation_16727080793640/WorldDemographics')
-txt_3('**Data Science Salary**', 'Tableau photos/data_science_salary.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/DataScienceSalaryAnalysis_16732413979580/Dashboard1')
-txt_3('**Clothing Retail Industry Analysis**', 'Tableau photos/retail.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/ClothingRetailIndustryAnalysis_16727010423040/FinalPresentation')
-txt_3('**Customer Analysis**', 'Tableau photos/customer_analysis.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/CustomerAnalysis_16727167027430/Dashboard1')
-txt_3('**Startups Analysis**', 'Tableau photos/startups_analysis.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/Startupsanalysis_16726215150380/TheStartUpQuadrant')
+txt3('**Spend Analytics**', 'Tableau photos/spend_analytics.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/SpendAnalytics_16731414474670/ExecutiveTotalSpend')
+txt3('**World Demographics Animation**', 'Tableau photos/world_demographics.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/WorldDemographicsAnimation_16727080793640/WorldDemographics')
+txt3('**Data Science Salary**', 'Tableau photos/data_science_salary.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/DataScienceSalaryAnalysis_16732413979580/Dashboard1')
+txt3('**Clothing Retail Industry Analysis**', 'Tableau photos/retail.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/ClothingRetailIndustryAnalysis_16727010423040/FinalPresentation')
+txt3('**Customer Analysis**', 'Tableau photos/customer_analysis.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/CustomerAnalysis_16727167027430/Dashboard1')
+txt3('**Startups Analysis**', 'Tableau photos/startups_analysis.png', 'https://public.tableau.com/app/profile/hong.nguyen2260/viz/Startupsanalysis_16726215150380/TheStartUpQuadrant')
 
 #####################
 st.markdown('''
