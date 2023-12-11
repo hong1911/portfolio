@@ -234,13 +234,13 @@ st.markdown('''
 txt('**Master of SCience in Business Analytics**, *University of California, Irvine*', 'June 2023')
 st.markdown('''
 - GPA: `3.98/4.00`
-- Graduated with Highest GPA.
+- Graduated with Highest GPA
 ''')
 
 txt('**Bachelor of Art Business Administration**, *University of California, Irvine*', 'June 2002')
 st.markdown('''
 - GPA: `4.00/4.00`
-- Honors: Delta Sigma Pi Scholarship Key
+- Delta Sigma Pi Scholarship Key
 ''')
 
 txt('**Certified Supply Chain Professional**, *APICS*','November 2021')
