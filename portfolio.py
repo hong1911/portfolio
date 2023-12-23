@@ -159,12 +159,9 @@ Analyzed the business processes and developed metrics to evaluate the performanc
 analyzed large volume of text data and communicated insights with the software developers through effective
 metrics. Ensured AI chatbot performance meets or exceeds the benchmarks set by the company and identified
 areas for product improvement.
-- Contributed significantly to an email intent classification project by developing a Streamlit interactive dashboard to
-monitor input data quality and model performance.
-- Employed a Large Language Model (LLM), NoSQL script in conjunction with the ChatGPT API in Python to
-create an automated testing model that boosted testing cycle velocity by `30%`.
-- Improved `10%` AI chatbot answer accuracy by developing testing procedure to enable in-depth analysis of
-chatbot responses and refine query flow for optimal performance.
+- Employed a Large Language Model (LLM), NoSQL script in conjunction with the ChatGPT API in Python to create an automated testing model that boosted testing cycle velocity by `30%`.
+- Improved `10%` AI chatbot answer accuracy by developing testing procedure to enable in-depth analysis of chatbot responses and refine query flow for optimal performance.
+- Contributed significantly to an email intent classification model project by developing a web interactive dashboard with Streamlit to monitor input data quality and model performance.
 ''')
 
 txt('''**ORTHO CLINICAL DIAGNOSTICS, RARITAN, NJ** <br>**Supply Chain Business Analyst Planning Intern**''',
