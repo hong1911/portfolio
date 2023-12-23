@@ -162,8 +162,8 @@ areas for product improvement.
 - Contributed significantly to an email intent classification project by developing a Streamlit interactive dashboard to
 monitor input data quality and model performance.
 - Employed a Large Language Model (LLM), NoSQL script in conjunction with the ChatGPT API in Python to
-create an automated testing model that boosted testing cycle velocity by 30%.
-- Improved 10% AI chatbot answer accuracy by developing testing procedure to enable in-depth analysis of
+create an automated testing model that boosted testing cycle velocity by `30%`.
+- Improved `10%` AI chatbot answer accuracy by developing testing procedure to enable in-depth analysis of
 chatbot responses and refine query flow for optimal performance.
 ''')
 
