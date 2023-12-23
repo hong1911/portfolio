@@ -142,11 +142,11 @@ regularly performing planning review, and making purchasing recommendations.
 and adept management of opportunities.
 ''')
 
-txt('''**KAISER PERMANENTE, OAKLAND, CA** <br>**Student Data Analyst**''',
+txt('''**KAISER PERMANENTE, OAKLAND, CA** <br>**Student Data Scientist**''',
   '01/2023 - 06/2023')
 st.markdown('''
 Analyzed 10M+ rows of data to identify workload trends, and employee performance that informed business
-decision-making related to staffing for 900+ employees. Communicate recommendations and insights to data
+decision-making related to staffing for 1000+ employees. Communicate recommendations and insights to data
 financial leadership through effective dashboards and presentations.
 - Cleaned `10M+` rows of transaction records using Python, performing cluster model to segment performance of 1000+ employees.
 - Created KPIs metrics and developed `10+` informative Tableau visualization dashboards to aid finance leadership in evaluating the staffing effectiveness.
@@ -159,13 +159,12 @@ Analyzed the business processes and developed metrics to evaluate the performanc
 analyzed large volume of text data and communicated insights with the software developers through effective
 metrics. Ensured AI chatbot performance meets or exceeds the benchmarks set by the company and identified
 areas for product improvement.
-- Contributed significantly to an email intent classification project by developing a Streamlit interactive dashboard to monitor input data quality and model performance.
-- Applied natural language techniques (NLP) techniques and ChatGPT API in Python to analyze AI chatbot
-response and develop an automated testing model, accelerating `30%` velocity of the testing cycle.
-- Utilized NoSQL to extract text data from Weaviate vector database, performing text analysis, and using
-Google Sheet API to create a summary report that increased `20%` efficiency to analyze product defects.
-- Improved `10%` AI chatbot response accuracy by using NLP techniques in Python to analyze chatbot response
-and communicating insights to software developers.
+- Contributed significantly to an email intent classification project by developing a Streamlit interactive dashboard to
+monitor input data quality and model performance.
+- Employed a Large Language Model (LLM), NoSQL script in conjunction with the ChatGPT API in Python to
+create an automated testing model that boosted testing cycle velocity by 30%.
+- Improved 10% AI chatbot answer accuracy by developing testing procedure to enable in-depth analysis of
+chatbot responses and refine query flow for optimal performance.
 ''')
 
 txt('''**ORTHO CLINICAL DIAGNOSTICS, RARITAN, NJ** <br>**Supply Chain Business Analyst Planning Intern**''',
