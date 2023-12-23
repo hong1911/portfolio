@@ -129,6 +129,19 @@ st.markdown('''
 ## Work Experience
 ''')
 
+txt('''**TEACHER CREATED MATERIALS, HUNGTINTON BEACH, CA** <br>**Supply Chain Analyst**''',
+  '05/2023 - Present')
+st.markdown('''
+Responsible for maintaing demand planning reviews and procurement plans to ensure availability of inventory that meet company fulfillment rate target.
+Orchestrated inventory management and forecasting strategies, effectively aligning stock optimization with company goals.
+-	Improve the efficiency of demand planning process by utilizing Python, SQL, VBA to automatically extract `12+` data sources from NetSuite, Salesforce,
+the legacy ERP system, and update planning review dashboard.
+-	Maintain `95%+` fulfilment rate for a diverse inventory of over `5,000` inventory items by developing forecasting model with Python,
+regularly performing planning review, and making purchasing recommendations. 
+-	Optimized inventory levels within budgetary constraints through analysis of product trends, strategic establishment of safety stock, implementation of ABC analysis,
+and adept management of opportunities.
+''')
+
 txt('''**KAISER PERMANENTE, OAKLAND, CA** <br>**Student Data Analyst**''',
   '01/2023 - 06/2023')
 st.markdown('''
@@ -146,12 +159,23 @@ Analyzed the business processes and developed metrics to evaluate the performanc
 analyzed large volume of text data and communicated insights with the software developers through effective
 metrics. Ensured AI chatbot performance meets or exceeds the benchmarks set by the company and identified
 areas for product improvement.
+- Contributed significantly to an email intent classification project by developing a Streamlit interactive dashboard to monitor input data quality and model performance.
 - Applied natural language techniques (NLP) techniques and ChatGPT API in Python to analyze AI chatbot
 response and develop an automated testing model, accelerating `30%` velocity of the testing cycle.
 - Utilized NoSQL to extract text data from Weaviate vector database, performing text analysis, and using
 Google Sheet API to create a summary report that increased `20%` efficiency to analyze product defects.
 - Improved `10%` AI chatbot response accuracy by using NLP techniques in Python to analyze chatbot response
 and communicating insights to software developers.
+''')
+
+txt('''**ORTHO CLINICAL DIAGNOSTICS, RARITAN, NJ** <br>**Supply Chain Business Analyst Planning Intern**''',
+  '05/2022 - 09/2022')
+st.markdown('''
+Supported cross-functional teams to identify areas for improvement in supply chain master data quality and implement solutions to improve data accuracy and consistency.
+Responsible for analyzing data to ensure compliance with data governance policies and procedures.
+-	Improved product master data accuracy `25%` by performing root-cause analysis of data irregularities, analyzing multiple data sources, and recommending solutions. 
+-	Incorporated feedback from Master Data, IT and Warehouse team to implement process enhancements to maintain high quality of supply chain master data that reduced
+`15%` of the time for data management.
 ''')
 
 txt('''**LACACO, TUSTIN, CA** <br>**Supply Chain Analyst**''',
