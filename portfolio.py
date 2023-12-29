@@ -134,11 +134,11 @@ txt('''**TEACHER CREATED MATERIALS, HUNGTINTON BEACH, CA** <br>**Supply Chain An
 st.markdown('''
 Responsible for maintaining demand planning reviews and procurement plans to ensure availability of inventory that meet company fulfillment rate target.
 Orchestrated inventory management and forecasting strategies, effectively aligning stock optimization with company goals.
--	Enhanced demand planning efficiency by `50%` through the utilization of Python, SQL, and VBA. Automated the extraction and manipulation of `12+` data sources
+- Enhanced demand planning efficiency by `50%` through the utilization of Python, SQL, and VBA. Automated the extraction and manipulation of `12+` data sources
 from legacy systems, NetSuite, and Salesforce, significantly streamlining processes and updating the planning review dashboard..
--	Maintain `95%+` fulfilment rate for a diverse inventory of over `5,000` inventory items by developing forecasting model with Python,
+- Maintain `95%+` fulfilment rate for a diverse inventory of over `5,000` inventory items by developing forecasting model with Python,
 regularly performing planning review, and making purchasing recommendations. 
--	Optimized inventory levels within budgetary constraints through analysis of product trends, strategic establishment of safety stock, implementation of ABC analysis,
+- Optimized inventory levels within budgetary constraints through analysis of product trends, strategic establishment of safety stock, implementation of ABC analysis,
 and adept management of opportunities.
 ''')
 
@@ -169,8 +169,8 @@ txt('''**ORTHO CLINICAL DIAGNOSTICS, RARITAN, NJ** <br>**Supply Chain Business A
 st.markdown('''
 Supported cross-functional teams to identify areas for improvement in supply chain master data quality and implement solutions to improve data accuracy and consistency.
 Responsible for analyzing data to ensure compliance with data governance policies and procedures.
--	Improved product master data accuracy `25%` by performing root-cause analysis of data irregularities, analyzing multiple data sources, and recommending solutions. 
--	Incorporated feedback from Master Data, IT and Warehouse team to implement process enhancements to maintain high quality of supply chain master data that reduced
+- Improved product master data accuracy `25%` by performing root-cause analysis of data irregularities, analyzing multiple data sources, and recommending solutions. 
+- Incorporated feedback from Master Data, IT and Warehouse team to implement process enhancements to maintain high quality of supply chain master data that reduced
 `15%` of the time for data management.
 ''')
 
