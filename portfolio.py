@@ -132,7 +132,7 @@ st.markdown('''
 txt('''**TEACHER CREATED MATERIALS, HUNGTINTON BEACH, CA** <br>**Supply Chain Analyst**''',
   '05/2023 - Present')
 st.markdown('''
-Responsible for maintaing demand planning reviews and procurement plans to ensure availability of inventory that meet company fulfillment rate target.
+Responsible for maintaining demand planning reviews and procurement plans to ensure availability of inventory that meet company fulfillment rate target.
 Orchestrated inventory management and forecasting strategies, effectively aligning stock optimization with company goals.
 -	Improve the efficiency of demand planning process by utilizing Python, SQL, VBA to automatically extract `12+` data sources from NetSuite, Salesforce,
 the legacy ERP system, and update planning review dashboard.
