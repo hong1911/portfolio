@@ -180,6 +180,7 @@ st.markdown('''
 Responsible for analyzing supply chain data to identify opportunities to match supply and demand, reduce costs,
 and improve operational efficiencies. Collaborated with business partners to deliver data insights that directly
 impact business decisions and improve the value chain.
+- Developed a machine learning model in Python with 90%+ accuracy in classifying incoming email intents, optimizing daily task assignments efficiently.
 - Performed inventory analytics to explore financial performance trends of different brands based on cost,
 purchase volume, profit, and service level, which led to a `10%` ROI improvement.
 - Analyzed purchasing and sales data to assess the business impact of trends, which supported the sales team
