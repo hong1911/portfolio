@@ -137,9 +137,8 @@ Orchestrated inventory management and forecasting strategies, effectively aligni
 - Enhanced demand planning efficiency by `50%` through the utilization of Python, SQL, and VBA. Automated the extraction and manipulation of `12+` data sources
 from legacy systems, NetSuite, and Salesforce, significantly streamlining processes and updating the planning review dashboard..
 - Maintain `95%+` fulfilment rate for a diverse inventory of over `5,000` inventory items by developing forecasting model with Python,
-regularly performing planning review, and making purchasing recommendations. 
-- Optimized inventory levels within budgetary constraints through analysis of product trends, strategic establishment of safety stock, implementation of ABC analysis,
-and adept management of opportunities.
+performing regular planning review, and providing purchasing recommendations. 
+- Optimized inventory levels within budgetary constraints by analyzing product trends, strategically establishing safety stock, implementing ABC analysis, and skillfully managing opportunities.
 ''')
 
 txt('''**KAISER PERMANENTE, OAKLAND, CA** <br>**Student Data Scientist**''',
@@ -186,9 +185,8 @@ impact business decisions and improve the value chain.
 resulting in a `25%` decrease in time required to analyze information and make informed decisions.
 - Increased fulfillment rate `50%` by analyzing supply chain metrics, providing recommendations, and
 collaborating with stakeholders to execute assigned plans.
-- Supported multiple functional teams to maintain high quality of supply chain data through analyzing data
-from different sources including sales, purchasing, logistics, finance and building an effective data maintenance procedure,
-which reduced `20%` time required to manage and correct data.          
+- Supported multiple functional teams in maintaining high-quality supply chain data by analyzing information from various sources (sales, purchasing, logistics, finance), establishing an efficient data maintenance procedure,
+thereby reducing data management and correction time by `20%`.          
 ''')
 
 txt('''**CST INDUSTRIES, KANSAS, USA (VIETNAM OFFICE)** <br>**Regional Project Manager – Asia**''',
