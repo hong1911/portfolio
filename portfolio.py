@@ -134,8 +134,8 @@ txt('''**TEACHER CREATED MATERIALS, HUNGTINTON BEACH, CA** <br>**Supply Chain An
 st.markdown('''
 Responsible for maintaining demand planning reviews and procurement plans to ensure availability of inventory that meet company fulfillment rate target.
 Orchestrated inventory management and forecasting strategies, effectively aligning stock optimization with company goals.
--	Improve the efficiency of demand planning process by utilizing Python, SQL, VBA to automatically extract `12+` data sources from NetSuite, Salesforce,
-the legacy ERP system, and update planning review dashboard.
+-	Enhanced demand planning efficiency by `50%` through the utilization of Python, SQL, and VBA. Automated the extraction and manipulation of `12+` data sources
+from legacy systems, NetSuite, and Salesforce, significantly streamlining processes and updating the planning review dashboard..
 -	Maintain `95%+` fulfilment rate for a diverse inventory of over `5,000` inventory items by developing forecasting model with Python,
 regularly performing planning review, and making purchasing recommendations. 
 -	Optimized inventory levels within budgetary constraints through analysis of product trends, strategic establishment of safety stock, implementation of ABC analysis,
