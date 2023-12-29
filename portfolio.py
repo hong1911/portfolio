@@ -181,14 +181,15 @@ Responsible for analyzing supply chain data to identify opportunities to match s
 and improve operational efficiencies. Collaborated with business partners to deliver data insights that directly
 impact business decisions and improve the value chain.
 - Developed a machine learning model in Python with `90%+` accuracy in classifying incoming email intents, optimizing daily task assignments efficiently.
-- Performed inventory analytics to explore financial performance trends of different brands based on cost,
-purchase volume, profit, and service level, which led to a `10%` ROI improvement.
-- Analyzed purchasing and sales data to assess the business impact of trends, which supported the sales team
-to identify trending products and led to a `30%` revenue increase.
-- Developed dashboard reports with Tableau to increase inter-departmental transparency, resulting in a `25%`
-decrease in time required for management teams to analyze information and make informed decisions.
-- Increased fulfillment rate `50%` by analyzing and communicating critical supply chain metrics to stakeholders,
-providing recommendations to leadership, and executing solutions to improve supply chain performance.          
+- Dynamically collected and analyzed purchasing, sales, and inventory data of 
+`10000+` products by using VBA and Pivot Table to identify the top trending products, leading to a `30%` revenue.
+- Created supply chain metrics and developed Tableau visualizations to increase supply chain transparency, 
+resulting in a `25%` decrease in time required to analyze information and make informed decisions.
+- Increased fulfillment rate `50%` by analyzing supply chain metrics, providing recommendations, and
+collaborating with stakeholders to execute assigned plans.
+- Supported multiple functional teams to maintain high quality of supply chain data through analyzing data
+from different sources including sales, purchasing, logistics, finance and building an effective data maintenance procedure,
+which reduced `20%` time required to manage and correct data.          
 ''')
 
 txt('''**CST INDUSTRIES, KANSAS, USA (VIETNAM OFFICE)** <br>**Regional Project Manager – Asia**''',
