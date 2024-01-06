@@ -179,7 +179,9 @@ st.markdown('''
 Responsible for analyzing supply chain data to identify opportunities to match supply and demand, reduce costs,
 and improve operational efficiencies. Collaborated with business partners to deliver data insights that directly
 impact business decisions and improve the value chain.
-- Developed a machine learning model in Python with `90%+` accuracy in classifying incoming email intents, optimizing daily task assignments efficiently.
+- Employed Python to develop a machine learning model achieving `90%+` accuracy in classifying incoming email
+intents. Leveraged AWS EC2 to execute Python scripts, automating the task assignment based on identified
+email intents that lead to `50%` operation efficiency increase.
 - Dynamically collected and analyzed purchasing, sales, and inventory data of `10000+` products by using VBA and Pivot Table to identify the top trending products, leading to a `30%` revenue.
 - Created supply chain metrics and developed Tableau visualizations to increase supply chain transparency, 
 resulting in a `25%` decrease in time required to analyze information and make informed decisions.
