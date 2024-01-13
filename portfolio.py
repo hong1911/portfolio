@@ -117,7 +117,7 @@ def txt5(source_a,a):
 #####################
 st.markdown('## About Me')
 st.info('''
-I am a data scientist / data analyst with a strong background in business and supply chain. 
+I am a data scientist / data analyst with a strong background in business. 
 I hold a Master of Science in Business Analytics from University of California, Irvine.
 I am passionate about using data to solve complex business problems and drive value for organizations.
 I have recently expanded my skill sets to various topics including natural language processing, cluster analysis, predictive modeling, and data visualization. 
