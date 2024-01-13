@@ -178,7 +178,7 @@ which reduced `15%` time for data management.
 - Technology used: Excel, SAP.
 ''')
 
-txt('''**LACACO, TUSTIN, CA** <br>**Supply Chain Analyst**''',
+txt('''**LACACO, TUSTIN, CA** <br>**Business Analyst**''',
   '02/2019 – 04/2022')
 st.markdown('''
 Analyzed business data to identify opportunities for aligning supply and demand, reducing costs, and enhancing operational efficiencies.
