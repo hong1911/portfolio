@@ -134,78 +134,75 @@ txt('''**TEACHER CREATED MATERIALS, HUNGTINTON BEACH, CA** <br>**Supply Chain An
 st.markdown('''
 Responsible for maintaining demand planning reviews and procurement plans to ensure availability of inventory that meet company fulfillment rate target.
 Orchestrated inventory management and forecasting strategies, effectively aligning stock optimization with company goals.
-- Enhanced demand planning efficiency by `50%` through the utilization of Python, SQL, and VBA. Automated the extraction and manipulation of `12+` data sources
-from legacy systems, NetSuite, and Salesforce, significantly streamlining processes and updating the planning review dashboard..
-- Maintain `95%+` fulfilment rate for a diverse inventory of over `5,000` inventory items by developing forecasting model with Python,
-performing regular planning review, and providing purchasing recommendations. 
-- Optimized inventory levels within budgetary constraints by analyzing product trends, strategically establishing safety stock, implementing ABC analysis, and skillfully managing opportunities.
+- Automated data collection and manipulation process of existing demand planning process with Python and VBA, leading to an `80%` efficiency increase. 
+- Developed a new demand planning process and dashboard for supply chain team within `3 months`. This reduced `50%` time for stakeholders to review data and make informed decisions.
+- Discovered fast selling and slow-moving products for each B2B customer.
+Analyzed the trade-offs between carrying excess safety stock and the risk of stockouts.
+This optimized the inventory level within the budget and increased customer service.
+- Achieved `95%` fulfillment rate by building a demand forecasting model with Python and providing strategic purchasing recommendations.
+- Defined inventory KPI metrics and developed dashboard to monitor inventory level of over `40,000` products.
+- Technology used: Python, SQL, VBA, Excel, ODBC, NetSuite, Salesforce.
 ''')
 
 txt('''**KAISER PERMANENTE, OAKLAND, CA** <br>**Student Data Scientist**''',
   '01/2023 - 06/2023')
 st.markdown('''
-Analyzed 10M+ rows of data to identify workload trends, and employee performance that informed business
-decision-making related to staffing for 1000+ employees. Communicate recommendations and insights to data
-financial leadership through effective dashboards and presentations.
-- Cleaned `10M+` rows of transaction records using Python, performing cluster model to segment performance of 1000+ employees.
-- Created KPIs metrics and developed `10+` informative Tableau visualization dashboards to aid finance leadership in evaluating the staffing effectiveness.
+Analyzed millions of transaction data to identify workload trends and employee performance,
+informing business decision-making related to staffing. Communicated insights to data scientist and financial leadership through effective dashboards and presentations.
+- Performed data cleaning and exploratory analysis in Python on a dataset of `10+ million` transaction records.
+- Developed a cluster machine learning model in Python to segment performance of `1000+` employees. This allowed finance leadership to efficiently evaluate staffing needs.
+- Formulated KPIs for employee performance and presented them through `10+` interactive Tableau dashboards.
+- Technology used: Python, AWS S3, Tableau.
 ''')
 
 txt('''**ALLTIUS, IRVINE, CA** <br>**Data Analyst Intern**''',
   '09/2022 - Present')
 st.markdown('''
-Analyzed the business processes and developed metrics to evaluate the performance of AI chatbot. Extracted and
-analyzed large volume of text data and communicated insights with the software developers through effective
-metrics. Ensured AI chatbot performance meets or exceeds the benchmarks set by the company and identified
-areas for product improvement.
-- Employed a Large Language Model (LLM), NoSQL script in conjunction with the ChatGPT API in Python to create an automated testing model that boosted testing cycle velocity by `30%`.
-- Improved `10%` AI chatbot answer accuracy by developing testing procedure to enable in-depth analysis of chatbot responses and refine query flow for optimal performance.
-- Contributed significantly to an email intent classification model project by developing a web interactive dashboard with Streamlit to monitor input data quality and model performance.
+Designed and implemented automated testing processes to evaluate the performance of an AI chatbot.
+Worked closely with software developers to ensure the AI chatbot met or exceeded the performance benchmarks set by the company and identified areas for product improvement.
+- Created the testing process and wrote Python script to automate it, boosting testing cycle velocity by `30%`.
+- Collected chatbot data from vector database, performed text analysis, and created an accuracy report. This increased `20%` efficiency to analyze product defects and
+improved `10%` chatbot response accuracy.
+- Developed an interactive web dashboard with Streamlit to monitor input email data quality. This supported the email intent classification model to achieve `95%` accuracy.
+- Technology used: Python (NLP), NoSQL (MongoDB, Weaviate), AWS S3, Streamlit, LLM (GPT).
 ''')
 
 txt('''**ORTHO CLINICAL DIAGNOSTICS, RARITAN, NJ** <br>**Supply Chain Business Analyst Planning Intern**''',
   '05/2022 - 09/2022')
 st.markdown('''
 Supported cross-functional teams to identify areas for improvement in supply chain master data quality and implement solutions to improve data accuracy and consistency.
-Responsible for analyzing data to ensure compliance with data governance policies and procedures.
-- Improved product master data accuracy `25%` by performing root-cause analysis of data irregularities, analyzing multiple data sources, and recommending solutions. 
-- Incorporated feedback from Master Data, IT and Warehouse team to implement process enhancements to maintain high quality of supply chain master data that reduced
-`15%` of the time for data management.
+Responsible for analyzing data to ensure compliance with data governance policies.
+- Performed root-cause analysis of data irregularities of multiple data sources, leading to an increase of `25%` product master data accuracy. 
+- Incorporated feedback from Master Data, IT and Warehouse team to implement process enhancements to maintain accuracy of supply chain master data,
+which reduced `15%` time for data management.
+- Technology used: Excel, SAP.
 ''')
 
 txt('''**LACACO, TUSTIN, CA** <br>**Supply Chain Analyst**''',
   '02/2019 – 04/2022')
 st.markdown('''
-Responsible for analyzing supply chain data to identify opportunities to match supply and demand, reduce costs,
-and improve operational efficiencies. Collaborated with business partners to deliver data insights that directly
-impact business decisions and improve the value chain.
-- Employed Python to develop a machine learning model achieving `90%+` accuracy in classifying incoming email
-intents. Leveraged AWS EC2 to execute Python scripts, automating the task assignments based on identified
-email intents that lead to `50%` operation efficiency increase.
-- Dynamically collected and analyzed purchasing, sales, and inventory data of `10000+` products by using VBA and Pivot Table to identify the top trending products, leading to a `30%` revenue.
-- Created supply chain metrics and developed Tableau visualizations to increase supply chain transparency, 
-resulting in a `25%` decrease in time required to analyze information and make informed decisions.
-- Increased fulfillment rate `50%` by analyzing supply chain metrics, providing recommendations, and
-collaborating with stakeholders to execute assigned plans.
-- Supported multiple functional teams in maintaining high-quality supply chain data by analyzing information from various sources (sales, purchasing, logistics, finance), establishing an efficient data maintenance procedure,
-thereby reducing data management and correction time by `20%`.          
+Analyzed business data to identify opportunities for aligning supply and demand, reducing costs, and enhancing operational efficiencies.
+Collaborated with business partners to deliver data-driven insights that directly influenced business decisions, enhancing the value chain.
+- Developed a machine learning model achieving `90%+` accuracy in classifying incoming email intents. Automated task assignment based on identified email intents,
+leading to `50%` operation efficiency increase.
+- Analyzed purchasing, sales, and inventory data of over `10,000` products. This helped the company to identify top trending products to purchase, resulting in a `30%` revenue increase.
+- Created business metrics and developed Tableau visualizations, reducing analysis time by `25%`.
+- Analyzed B2B customer behavior and communicated insights to stakeholders. This allowed the sales team to efficiently offer the right products to each customer.
+- Analyzed products profit margin and operational cost to optimize pricing for over `100 brands`.
+- Technology used: Python, Tableau, AWS EC2, VBA, Excel.          
 ''')
 
 txt('''**CST INDUSTRIES, KANSAS, USA (VIETNAM OFFICE)** <br>**Regional Project Manager – Asia**''',
   '02/2012 – 12/2016')
 st.markdown('''
-Managed all aspects of 50+ projects for customers in Asia, including project planning, execution, monitoring, and
-controlling. Coordinated with customers to understand their needs and collaborated with cross functional teams
-to ensure that projects are delivered on time, within budget, and to customer satisfaction.
-- Independently engaged with customers and business partners such as engineering, manufacturing, logistics,
-and accounting to gather requirements and validate project results. Created tracking Excel sheet to manage
-`50+` projects to be on track with project scope, schedules, and customer satisfaction.
-- Collected and analyzed a large database from multiple sources including logistics, finance, and manufacturing
-to produce actionable plans that led to a `30%` on-time delivery rate increase.
-- Successfully delivered `$5M+` projects within budget and timeline constraints by utilizing root cause analysis to
-mitigate risks and address issues related to manufacturing, quality, and logistics.
-- Utilized Microsoft Excel pivot tables to perform project financial analysis to identify areas for cost saving
-related to outsourcing and logistics, which increased project profit up to `5%`.     
+Managed all aspects of `50+` projects for customers in Asia, including project planning, execution, monitoring, and controlling.
+Coordinated with customers to understand their needs and collaborated with cross functional teams to ensure that projects are delivered on time, within budget, and to customer satisfaction.
+- Collaborated with customers and business partners such as engineering, manufacturing, logistics, and accounting to validate project results.
+Annually managed `50+` projects to be on track.
+- Analyzed engineering, logistics and manufacturing data to produce actionable plans that led to a `30%` on-time delivery rate increase.
+- Successfully delivered `$5M+` projects within budget and timeline constraints by utilizing root cause analysis to mitigate risks and address issues related to manufacturing, quality, and logistics.
+- Developed project metrics including scope, schedule, budget, and quality. Built dashboards to communicate with leadership, leading to `30%` efficiency in monitoring projects.
+- Technology used: Excel, VBA.     
 ''')
 
 #####################
