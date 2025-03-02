@@ -128,19 +128,30 @@ st.markdown('''
 ## Work Experience
 ''')
 
+
+txt('''**NIAGARA BOTTLING, DIAMOND BAR, CA** <br>**Senior Supply Chain AI Solution Analyst**''',
+  '05/2023 - 07/2024')
+st.markdown('''
+Lead AI product management and data analytics, developing AI-driven automation solutions to optimize customer service and logistics operations.
+Design KPI metrics, analyze large datasets for actionable insights, and collaborate with cross-functional teams to implement AI solutions.
+- Developed AI-powered automation system, leveraging Generative AI, Machine Learning, and Computer Vision to enhance customer service and logistics operations processes, achieving a `60% reduction in ticket resolution time`.
+- Designed KPI metrics for the AI products and built interactive Power BI dashboards that increased decision-making efficiency by `30%`.
+- Partnered with data science teams to develop an intent classification model in Python, predicting carrier intent with `90% accuracy`, resulting in a `25% boost in automation rate`.
+- Conducted analysis on over `1 million incident records`, presenting business insights to optimize customer service and logistics operations.
+- Facilitated cross-departmental change management, collaborating with IT, logistics operations, and customer service teams to successfully implement AI solutions.
+''')
+
+
 txt('''**TEACHER CREATED MATERIALS, HUNGTINTON BEACH, CA** <br>**Supply Chain Analyst**''',
   '05/2023 - 07/2024')
 st.markdown('''
 Responsible for maintaining demand planning reviews and procurement plans to ensure availability of inventory that meet company fulfillment rate target.
 Orchestrated inventory management and forecasting strategies, effectively aligning stock optimization with company goals.
-- Automated data collection and manipulation process of existing demand planning process with Python and VBA, leading to an `80%` efficiency increase. 
-- Developed a new demand planning process and dashboard for supply chain team within `3 months`. This reduced `50%` time for stakeholders to review data and make informed decisions.
-- Discovered fast selling and slow-moving products for each B2B customer.
-Analyzed the trade-offs between carrying excess safety stock and the risk of stockouts.
-This optimized the inventory level within the budget and increased customer service.
-- Achieved `95%` fulfillment rate by building a demand forecasting model with Python and providing strategic purchasing recommendations.
-- Defined inventory KPI metrics and developed dashboard to monitor inventory level of over `40,000` products.
-- Technology used: Python, SQL, VBA, Excel, ODBC, NetSuite, Salesforce.
+- Developed machine learning models with `85% accuracy` in Python to predict the win probability of opportunities, improving revenue forecasting accuracy and optimizing sales processes.
+- Achieved over `95% fulfillment rate` through building demand forecasting models and developing inventory replenishment plans.
+- Automated Extract, Transform, and Load (ETL) process with SQL, Python, and VBA, leading to a `50% increase efficiency` for the demand planning process.
+- Analyzed `10 years of sales data` to identify correlation patterns and collaborated with the marketing team to develop a targeted marketing strategy, enhancing cross-selling opportunities and driving increased revenue.
+- Developed dashboards to monitor inventory key performance indicator (KPI) metrics of over 40,000 products
 ''')
 
 txt('''**KAISER PERMANENTE, OAKLAND, CA** <br>**Student Data Scientist**''',
@@ -149,9 +160,8 @@ st.markdown('''
 Analyzed millions of transaction data to identify workload trends and employee performance,
 informing business decision-making related to staffing. Communicated insights to data scientist and financial leadership through effective dashboards and presentations.
 - Performed data cleaning and exploratory analysis in Python on a dataset of `10+ million` transaction records.
-- Developed a cluster machine learning model in Python to segment performance of `1000+` employees. This allowed finance leadership to efficiently evaluate staffing needs.
+- Developed a cluster machine learning model in Python to segment performance of `1000+ employees`. This allowed finance leadership to efficiently evaluate staffing needs.
 - Formulated KPIs for employee performance and presented them through `10+` interactive Tableau dashboards.
-- Technology used: Python, AWS S3, Tableau.
 ''')
 
 txt('''**ALLTIUS, IRVINE, CA** <br>**Data Analyst Intern**''',
@@ -159,11 +169,10 @@ txt('''**ALLTIUS, IRVINE, CA** <br>**Data Analyst Intern**''',
 st.markdown('''
 Designed and implemented automated testing processes to evaluate the performance of an AI chatbot.
 Worked closely with software developers to ensure the AI chatbot met or exceeded the performance benchmarks set by the company and identified areas for product improvement.
-- Created the testing process and wrote Python script to automate it, boosting testing cycle velocity by `30%`.
-- Collected chatbot data from vector database, performed text analysis, and created an accuracy report. This increased `20%` efficiency to analyze product defects and
-improved `10%` chatbot response accuracy.
-- Developed an interactive web dashboard with Streamlit to monitor input email data quality. This supported the email intent classification model to achieve `95%` accuracy.
-- Technology used: Python (NLP), NoSQL (MongoDB, Weaviate), AWS S3, Streamlit, LLM (GPT).
+- Created the testing process and wrote Python script to automate it, `boosting testing cycle velocity by 30%`.
+- Collected chatbot data from vector database, performed text analysis, and created an accuracy report. This `increased 20% efficiency` to analyze product defects and
+`improved 10% chatbot response accuracy`.
+- Developed an interactive web dashboard with Streamlit to monitor input email data quality. This supported the email intent classification model to achieve `95% accuracy`.
 ''')
 
 txt('''**ORTHO CLINICAL DIAGNOSTICS, RARITAN, NJ** <br>**Supply Chain Business Analyst Planning Intern**''',
@@ -171,9 +180,9 @@ txt('''**ORTHO CLINICAL DIAGNOSTICS, RARITAN, NJ** <br>**Supply Chain Business A
 st.markdown('''
 Supported cross-functional teams to identify areas for improvement in supply chain master data quality and implement solutions to improve data accuracy and consistency.
 Responsible for analyzing data to ensure compliance with data governance policies.
-- Performed root-cause analysis of data irregularities of multiple data sources, leading to an increase of `25%` product master data accuracy. 
+- Performed root-cause analysis of data irregularities of multiple data sources, leading to an `increase of 25%` product master data accuracy. 
 - Incorporated feedback from Master Data, IT and Warehouse team to implement process enhancements to maintain accuracy of supply chain master data,
-which reduced `15%` time for data management.
+which `reduced 15%` time for data management.
 - Technology used: Excel, SAP.
 ''')
 
@@ -187,8 +196,7 @@ leading to `50%` operation efficiency increase.
 - Analyzed purchasing, sales, and inventory data of over `10,000` products. This helped the company to identify top trending products to purchase, resulting in a `30%` revenue increase.
 - Created business metrics and developed Tableau visualizations, reducing analysis time by `25%`.
 - Analyzed B2B customer behavior and communicated insights to stakeholders. This allowed the sales team to efficiently offer the right products to each customer.
-- Analyzed products profit margin and operational cost to optimize pricing for over `100 brands`.
-- Technology used: Python, Tableau, AWS EC2, VBA, Excel.          
+- Analyzed products profit margin and operational cost to optimize pricing for over `100 brands`.       
 ''')
 
 txt('''**CST INDUSTRIES, KANSAS, USA (VIETNAM OFFICE)** <br>**Regional Project Manager – Asia**''',
@@ -201,7 +209,6 @@ Annually managed `50+` projects to be on track.
 - Analyzed engineering, logistics and manufacturing data to produce actionable plans that led to a `30%` on-time delivery rate increase.
 - Successfully delivered `$5M+` projects within budget and timeline constraints by utilizing root cause analysis to mitigate risks and address issues related to manufacturing, quality, and logistics.
 - Developed project metrics including scope, schedule, budget, and quality. Built dashboards to communicate with leadership, leading to `30%` efficiency in monitoring projects.
-- Technology used: Excel, VBA.     
 ''')
 
 #####################
@@ -266,12 +273,12 @@ txt('**Certified Supply Chain Professional**, *APICS*','November 2021')
 st.markdown('''
 ## Skills
 ''')
+txt4('AI/ML', '`Generative AI`, `Computer Vision`', `Scikit-learn')
 txt4('Programming', '`Python`, `R`')
 txt4('Data processing/wrangling', '`SQL`, `NoSQL`, `Pandas`, `Numpy`')
 txt4('Data visualization', '`Tableau`, `Power BI`')
-txt4('Machine Learning', '`Scikit-learn`')
-txt4('Model deployment', '`Streamlit`, `AWS`')
-txt4('ERP', '`SAP`, `NetSuite`')
+txt4('Model deployment', '`Streamlit`, `AWS`, `Azure`')
+txt4('ERP', '`Oracle`, `SAP`, `NetSuite`')
 txt4('Others','`Git`, `Jira`, `Advanced Excel (VBA, PivotTables, Index/Match)`')
 
 #####################
