@@ -118,7 +118,7 @@ def txt5(source_a,a):
 st.markdown('## About Me')
 st.info('''
 I am a data analytics professional and AI product manager with several years of experience driving operation and supply chain efficiency through data-driven solutions.
-With a strong foundation in AI and machine learning, I specialize in building metrics, optimizing processes, and enhancing decision-making for businesses.
+With a strong foundation in AI and supply chain, I specialize in building metrics, optimizing processes, and enhancing decision-making for businesses.
 I hold a Master of Science in Business Analytics and am passionate about developing AI-powered solutions that drive innovation and efficiency.
 Continuously exploring new methodologies, I thrive in fast-paced environments that challenge me to push the boundaries of AI and analytics.
 ''')
