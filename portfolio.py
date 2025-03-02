@@ -130,7 +130,7 @@ st.markdown('''
 
 
 txt('''**NIAGARA BOTTLING, DIAMOND BAR, CA** <br>**Senior Supply Chain AI Solution Analyst**''',
-  '05/2023 - 07/2024')
+  '07/2024 - Present')
 st.markdown('''
 Lead AI product management and data analytics, developing AI-driven automation solutions to optimize customer service and logistics operations.
 Design KPI metrics, analyze large datasets for actionable insights, and collaborate with cross-functional teams to implement AI solutions.
