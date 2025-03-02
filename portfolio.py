@@ -117,11 +117,10 @@ def txt5(source_a,a):
 #####################
 st.markdown('## About Me')
 st.info('''
-I am a data scientist / data analyst with a strong background in business. 
-I hold a Master of Science in Business Analytics from University of California, Irvine.
-I am passionate about using data to solve complex business problems and drive value for organizations.
-I have recently expanded my skill sets to various topics including natural language processing, cluster analysis, predictive modeling, and data visualization. 
-I am excited to keep learning new methods in a challenging and fast-paced environment.
+I am a data analytics professional and AI product manager with several years of experience driving operation and supply chain efficiency through data-driven solutions.
+With a strong foundation in AI and machine learning, I specialize in building metrics, optimizing processes, and enhancing decision-making for businesses.
+I hold a Master of Science in Business Analytics and am passionate about developing AI-powered solutions that drive innovation and efficiency.
+Continuously exploring new methodologies, I thrive in fast-paced environments that challenge me to push the boundaries of AI and analytics.
 ''')
 
 #####################
@@ -130,7 +129,7 @@ st.markdown('''
 ''')
 
 txt('''**TEACHER CREATED MATERIALS, HUNGTINTON BEACH, CA** <br>**Supply Chain Analyst**''',
-  '05/2023 - Present')
+  '05/2023 - 07/2024')
 st.markdown('''
 Responsible for maintaining demand planning reviews and procurement plans to ensure availability of inventory that meet company fulfillment rate target.
 Orchestrated inventory management and forecasting strategies, effectively aligning stock optimization with company goals.
