@@ -137,7 +137,7 @@ Design KPI metrics, analyze large datasets for actionable insights, and collabor
 - Developed AI-powered automation system, leveraging Generative AI, Machine Learning, and Computer Vision to enhance customer service and logistics operations processes, achieving a `60% reduction in ticket resolution time`.
 - Designed KPI metrics for the AI products and built interactive Power BI dashboards that increased decision-making efficiency by `30%`.
 - Partnered with data science teams to develop an intent classification model in Python, predicting carrier intent with `90% accuracy`, resulting in a `25% boost in automation rate`.
-- Conducted analysis on over `1 million incident records`, presenting business insights to optimize customer service and logistics operations.
+- Conducted analysis on over `800,000 incident records`, presenting business insights to optimize customer service and logistics operations.
 - Facilitated cross-departmental change management, collaborating with IT, logistics operations, and customer service teams to successfully implement AI solutions.
 ''')
 
