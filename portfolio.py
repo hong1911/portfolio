@@ -273,7 +273,7 @@ txt('**Certified Supply Chain Professional**, *APICS*','November 2021')
 st.markdown('''
 ## Skills
 ''')
-txt4('AI/ML', '`Generative AI`, `Computer Vision`', `Scikit-learn')
+txt4('AI/ML', '`Generative AI`, `Computer Vision`, `Scikit-learn`')
 txt4('Programming', '`Python`, `R`')
 txt4('Data processing/wrangling', '`SQL`, `NoSQL`, `Pandas`, `Numpy`')
 txt4('Data visualization', '`Tableau`, `Power BI`')
