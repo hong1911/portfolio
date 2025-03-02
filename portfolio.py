@@ -129,7 +129,7 @@ st.markdown('''
 ''')
 
 
-txt('''**NIAGARA BOTTLING, DIAMOND BAR, CA** <br>**Senior Supply Chain AI Solution Analyst**''',
+txt('''**NIAGARA BOTTLING, DIAMOND BAR, CA** <br>**Senior Supply Chain Solution Analyst, AI**''',
   '07/2024 - Present')
 st.markdown('''
 Lead AI product management and data analytics, developing AI-driven automation solutions to optimize customer service and logistics operations.
